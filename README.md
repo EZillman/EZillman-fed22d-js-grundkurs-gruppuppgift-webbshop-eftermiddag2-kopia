@@ -5,3 +5,6 @@ WHEN START:
 1. write "npm install" i terminalen för att installera eslint+prettier package. Installera även extensions (eslint & prettier) i VS-code.
 2. Tips: Formate on save i vscode eller skriv "npm run lint" i terminalen för att koden ska kollas igenom.
 3. i package.json -> under "scripts": kan nya kortkommandon läggas till för easy acess. Ex som "npm run lint".
+
+
+Commit to the new repository
